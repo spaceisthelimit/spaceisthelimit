@@ -1,0 +1,54 @@
+/* === For your Responsive CSS === */
+
+
+
+
+@media screen and (min-width:600px){
+    grid-template-columns: 100%;
+}
+
+@media screen and (max-width:600px){
+    grid-template-columns: 100%;
+    
+    
+    img{
+        max-width: 100%;
+    }
+    
+    header,footer {
+        display: grid;
+        grid-template-columns: 100%;
+        text-align: center;}
+
+    #splash {
+        grid-column: 1/2;
+        font-size: 2rem;
+        line-height: 2.5rem;
+        height: 10.7rem;}
+    #app {
+        grid-column: 1/2;}
+
+    #logo{
+        text-align: center;}
+    
+    main {
+    display: grid;
+    grid-template-columns: 100%;
+    text-align: center;
+    }
+    
+    #mobile-menu {
+        position: fixed;
+        top: 10px;
+        left: 10px;
+    }
+
+}
+
+
+
+
+
+
+
+
