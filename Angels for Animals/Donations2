@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>AHAN</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Itim&display=swap" rel="stylesheet">
+
+    <link href="https://fonts.googleapis.com/css2?family=Catamaran&display=swap" rel="stylesheet">
+
+
+    <link rel='stylesheet' href="Stylesheet.css">
+
+</head>
+
+<body>
+
+    <div>
+
+        <header>
+
+            <img src="images/headerbanner.jpg">
+
+            <section>
+
+                <nav class="floatright">
+                    <a href="#">About Us</a>
+                    <a href="#">Adoptions</a>
+                    <a href="#">Donate</a>
+                </nav>
+
+            </section>
+
+
+            <main>
+                <section id="dog4">
+
+                    <h2>Donations</h2>
+
+                </section>
+
+            </main>
+
+
+        </header>
+
+        <main>
+
+            <section class="infosection">
+
+                <p class="info">First Name</p>
+                <p class="info">Last Name</p>
+                <p class="info">Email</p>
+
+            </section>
+
+            <section class="payments">
+
+                <p class="paymentsbackground">One-Time</p>
+                <p class="paymentsbackground">Monthly</p>
+
+            </section>
+
+            <section class="pricesgroup">
+
+                <p class="prices">$10</p>
+                <p class="prices">$15</p>
+                <p class="prices">$25</p>
+                <p class="prices">$30</p>
+                <p class="prices">$50</p>
+                <p class="prices">$100</p>
+
+            </section>
+
+            <section class="amountsection">
+
+                <p class="amount">$</p>
+
+            </section>
+
+            <section class="donatebuttonsection">
+
+                <p class="donatebutton">Donate</p>
+
+            </section>
+
+            <section class="paymenttypes">
+
+                <img src="images/visa.jpg">
+                <img src="images/mastercard.jpg">
+                <img src="images/amex.jpg">
+                <img src="images/discover.jpg">
+
+            </section>
+
+        </main>
+
+
+
+        <footer>
+
+            <section id=" bio">
+
+                <p class="bio">AHAN.org is a San Francisco Bay Area International animal rescue organization dedicated to the rescue of abandoned and neglected overseas' dogs and cats, fostering, and adoptions.
+                </p>
+
+            </section>
+
+
+
+            <section id="about">
+
+                <h3>About</h3>
+
+                <ul>
+                    <li>Our Story</li>
+                    <li>Contact</li>
+                    <li>Contribute</li>
+                </ul>
+
+            </section>
+
+            <section id="follow">
+
+                <h3>Follow Us</h3>
+
+                <ul>
+                    <li>Facebook</li>
+                    <li>Yelp</li>
+
+                </ul>
+
+            </section>
+
+
+        </footer>
+
+        <p class="footer">Copyright © 2020. Angles for Human Animals and Nature. All rights reserved.</p>
+
+    </div>
+
+</body>
+
+</html>
