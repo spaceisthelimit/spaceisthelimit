@@ -25,3 +25,196 @@ width: 1440px;
 height: 3259px;
 
 background: #FFFFFF;
+
+/* Donations */
+
+h1 {
+    font-family: 'Itim', cursive;
+
+}
+
+h2 {
+    font-family: 'Catamaran', sans-serif;
+    font-size: 72px;
+    color: #ffffff;
+
+}
+
+
+a {
+    color: #000000;
+    font-family: 'Catamaran', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 40px;
+    text-decoration: none;
+    padding-right: 50px;
+}
+
+p {
+    font-family: 'Catamaran', sans-serif;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 40px;
+}
+
+
+footer ul {
+    color: #1E2833;
+    font-family: 'Catamaran', sans-serif;
+    font-size: 15px;
+    line-height: 40px;
+    list-style-type: none;
+    padding: 0px;
+
+
+}
+
+h3 {
+    color: #96ABB0;
+    font-family: 'Catamaran', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+footer {
+    background-color: #D7E0E7;
+    height:
+}
+
+.mail {
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 38px;
+
+}
+
+.footer {
+    color: #1E2833;
+    font-size: 15px;
+    text-align: center;
+
+}
+
+.blue {
+    background-color: #E1E8ED;
+}
+
+.floatright {
+    float: right;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.doing {
+    list-style-type: circle;
+}
+
+#dog1 {
+    background-image: url(images/dog1.jpg);
+    background-size: cover;
+    background-repeat: none;
+    height: 684px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#dog2text {
+    font-family: 'Catamaran', sans-serif;
+    font-size: 24px;
+    background-color: #E1E8ED;
+    padding: 50px;
+
+}
+
+#dog3text {
+    font-family: 'Catamaran', sans-serif;
+    font-size: 24px;
+    background-color: #E1E8ED;
+    padding: 50px;
+}
+
+
+#dog2 {
+    background-image: url(images/dog2.jpg);
+    background-size: cover;
+    background-repeat: none;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+#dog3 {
+
+    background-image: url(images/dog3.jpg);
+    background-repeat: none;
+    background-size: cover;
+    height: 611px;
+    grid-column-start: 2;
+    grid-column-end: 3;
+
+}
+
+.donateonline {
+    font-family: 'Catamaran', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 50px;
+    background-color: #7AB24D;
+    height: 70px;
+    width: 265px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.donatecar {
+    font-family: 'Catamaran', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 50px;
+    background-color: #7AB24D;
+    height: 70px;
+    width: 375px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+footer {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    padding: 70px;
+}
+
+.bio {
+    font-size: 15px;
+    padding-right: 30px
+}
+
+#id bio {
+    grid-column-start: 1;
+    grid-column-end: 2;
+
+}
+
+
+#about {
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+
+#follow {
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+
