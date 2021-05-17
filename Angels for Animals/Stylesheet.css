@@ -47,7 +47,7 @@ p {
 }
 
 .middle{
-    margin-top: -20px;
+    margin-top: 10px;
     margin-bottom: 150px;
     margin-left: 100px;
     margin-right: 100px;
@@ -289,7 +289,7 @@ footer {
 /* Donations Page 2 */
 
 #dog4 {
-    background-image: url(Images/dog4.jpg);
+    background-image: url(images/dog4.jpg);
     background-size: cover;
     background-repeat: none;
     height: 230px;
@@ -353,14 +353,10 @@ footer {
 
 .infosection {
     padding-left: 40px;
+    position: absolute;
     top: 420px;
     right: 430px;
-    position: absolute;
-    margin: auto;
-    margin-left:auto;
-    margin-right:auto;
-    max-width: 1000px;
-
+    
 }
 
 .donatebutton {
@@ -412,5 +408,5 @@ footer {
     margin-left: 40px;
     margin-right: 40px;
     margin-bottom: 30px;
-
+    
 }
