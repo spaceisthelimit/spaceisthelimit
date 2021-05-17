@@ -42,8 +42,11 @@ p {
     background-image: url(Images/Home Banner.png);
     background-size: cover;
     background-repeat: none;
-    grid-column-start: 1;
-    grid-column-end: 2;
+    height: 684px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 
