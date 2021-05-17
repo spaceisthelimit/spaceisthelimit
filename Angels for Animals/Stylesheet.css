@@ -65,7 +65,8 @@ p {
 
 #topadopt{
     background-image: url(Images/adopt.jpg);
-    podition:absolute;
+    position:absolute;
+    float: left;
 
 }
 
