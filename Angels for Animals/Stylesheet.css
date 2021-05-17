@@ -42,6 +42,8 @@ p {
     background-image: url(Images/Home%20Banner.jpg);
     height: 684px;
     width: 100%;
+    align-items: center;
+    justify-content: center;
 }
 
 
