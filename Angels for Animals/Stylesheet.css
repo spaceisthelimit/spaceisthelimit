@@ -97,8 +97,9 @@ background: #FFFFFF;
 
 #displaydogs{
     background-image: url(Images/dogphotos.jpg);
-    height: 1000px;
-    width: 1000px;
+    position: absolute;
+    width: 1164px;
+    height: 661.32px;
 }
 /* Adoptions Page 2 */
 
