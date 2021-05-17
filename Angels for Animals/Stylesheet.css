@@ -65,10 +65,17 @@ p {
     grid-column-end: 2;
 }
 
-#topadopt{
+.topadopt{
     background-image: url(Images/adopt.jpg);
-    position:absolute;
-    float: left;
+      width: 564px;
+      height: 218px;
+      position: absolute;
+      top: 354px;
+      left: 0px;
+      border-top-left-radius: 3px;
+      border-top-right-radius: 3px;
+      border-bottom-left-radius: 3px;
+      border-bottom-right-radius: 3px;
 
 }
 
