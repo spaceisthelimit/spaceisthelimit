@@ -114,7 +114,7 @@ footer {
 }
 
 #dog1 {
-    background-image: url(images/dog1.jpg);
+    background-image: url(Images/dog1.jpg);
     background-size: cover;
     background-repeat: none;
     height: 684px;
@@ -142,7 +142,7 @@ footer {
 
 
 #dog2 {
-    background-image: url(images/dog2.jpg);
+    background-image: url(Images/dog2.jpg);
     background-size: cover;
     background-repeat: none;
     grid-column-start: 1;
@@ -151,7 +151,7 @@ footer {
 
 #dog3 {
 
-    background-image: url(images/dog3.jpg);
+    background-image: url(Images/dog3.jpg);
     background-repeat: none;
     background-size: cover;
     height: 611px;
@@ -221,7 +221,7 @@ footer {
 /* Donations Page 2 */
 
 #dog4 {
-    background-image: url(images/dog4.jpg);
+    background-image: url(Images/dog4.jpg);
     background-size: cover;
     background-repeat: none;
     height: 230px;
