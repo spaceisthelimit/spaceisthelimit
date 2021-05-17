@@ -12,7 +12,8 @@ h1 {
 
 h3 {
     font-family: 'Catamaran', sans-serif;
-    font-size: 72px;
+    font-size: 172px;
+    color: #000000;
 
 
 }
@@ -33,6 +34,7 @@ p {
     font-weight: normal;
     font-size: 24px;
     line-height: 40px;
+    display: flex;
     align-items: center;
     justify-content: center;
 }
@@ -331,6 +333,7 @@ footer {
     padding-left: 40px;
     top: 420px;
     right: 430px;
+    position: absolute;
     margin: auto;
     max-width: 1000px;
 
