@@ -30,7 +30,7 @@ a {
     padding-right: 50px;
 }
 
-p1 {
+p {
     font-family: 'Catamaran', sans-serif;
     font-weight: normal;
     font-size: 24px;
@@ -43,6 +43,10 @@ p1 {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.middle{
+     padding-left: 70px;
 }
 
 #mainbackground {
