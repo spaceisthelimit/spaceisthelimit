@@ -39,7 +39,7 @@ p1 {
     align-items: center;
     justify-content: center;
 }
-welcome{
+.welcome{
     display: flex;
     align-items: center;
     justify-content: center;
