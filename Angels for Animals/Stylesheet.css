@@ -98,6 +98,15 @@ background: #FFFFFF;
     background-image: url(Images/dogphotos.jpg);
     width: 1164px;
     height: 661.32px;
+    
+    
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 /* Adoptions Page 2 */
 
