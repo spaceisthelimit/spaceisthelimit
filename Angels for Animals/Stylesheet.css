@@ -329,7 +329,7 @@ footer {
 
 .infosection {
     padding-left: 40px;
-    position: absolute;
+    position: fixed;
     top: 420px;
     right: 430px;
 
