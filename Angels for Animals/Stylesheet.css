@@ -88,11 +88,10 @@ height: 1988px;*/
 
 background: #FFFFFF;
 
-#adoptdogbanner{
+#adoptionbanner{
     background-image: url(Images/adoptionbanner.jpg);
     height: 1000px;
     width: 1000px;
-    
 }
 
 #displaydogs{
