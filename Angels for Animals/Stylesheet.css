@@ -91,16 +91,15 @@ background: #FFFFFF;
 #adoptdogbanner{
     background-image: url(Images/adoptionbanner.jpg);
     height: 684px;
-    width: 100%;
+    width: 1000px;
     align-items: center;
     justify-content: center;
-    background-size: cover;
-    background-repeat: none;
-    grid-column-start: 1;
-    grid-column-end: 2;
     
 }
 
+#displaydogs{
+    background-image: url(Images/dogphotos.jpg);
+}
 /* Adoptions Page 2 */
 
 
