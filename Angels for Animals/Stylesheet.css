@@ -97,7 +97,6 @@ background: #FFFFFF;
 
 #displaydogs{
     background-image: url(Images/dogphotos.jpg);
-    position: absolute;
     width: 1164px;
     height: 661.32px;
 }
