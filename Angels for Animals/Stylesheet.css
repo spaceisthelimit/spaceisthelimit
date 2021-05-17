@@ -263,7 +263,7 @@ footer {
 /* Donations Page 2 */
 
 #dog4 {
-    background-image: url(Images/dog4.jpg);
+    background-image: url(images/dog4.jpg);
     background-size: cover;
     background-repeat: none;
     height: 230px;
@@ -274,17 +274,35 @@ footer {
 
 }
 
+.info {
+    background-color: #ffffff;
+    color: rgba(0, 0, 0, 0.1);
+    width: 592px;
+    height: 46px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 60px;
+    padding-left: 10px;
+
+}
+
 .prices {
     background-color: #7AB24D;
     font-size: 24px;
     line-height: 40px;
     width: 114px;
-    height: 46px;
     border-radius: 5px;
     display: flex;
     align-items: center;
     justify-content: center;
 
+}
+
+.pricesgroup {
+    display: grid;
+    grid-template-columns: 40% 40%;
+    padding-left: 40px;
 }
 
 .paymentsbackground {
@@ -298,36 +316,21 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
-    
-}
-
-.info {
-    background-color: #ffffff;
-    width: 592px;
-    height: 46px;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    display: flex;
-    align-items: flex-end;
-    padding-left: 10px;
-    margin-bottom: 60px;
-}
-
-.infosection {
-    padding: 40px;
 
 }
 
 .payments {
-    padding-left: 40px;
     display: grid;
-    grid-template-columns: 12% 12%;
+    grid-template-columns: 50% 50%;
 
 }
 
-.pricesgroup {
-    padding-left: 90px;
-    display: grid;
-    grid-template-columns: 8% 8%;
+.infosection {
+    padding-left: 40px;
+    position: absolute;
+    top: 420px;
+    right: 430px;
+
 }
 
 .donatebutton {
@@ -340,16 +343,17 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
+
 }
 
 .donatebuttonsection {
-    padding-left: 90px;
+    padding-top: 80px;
+    padding-left: 110px;
 
 }
 
 .paymenttypes {
-    padding-left: 90px;
-
+    padding-left: 80px;
 }
 
 .amount {
@@ -357,6 +361,7 @@ footer {
     width: 203px;
     height: 47px;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    position: absolute;
     display: flex;
     align-items: center;
     padding-left: 10px;
@@ -364,18 +369,18 @@ footer {
 }
 
 .amountsection {
-    padding-left: 90px;
-    padding-bottom: 30px;
-
+    padding-left: 70px;
 }
 
-.floatright {
-    float: right;
+.donationbox {
+    background-color: #ffffff;
+    width: 404px;
+    height: 600px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    padding-left: 40px;
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 30px;
+
 }
-
-.floatleft {
-    float: left;
-
-}
-
-
