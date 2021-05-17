@@ -329,9 +329,9 @@ footer {
 
 .infosection {
     padding-left: 40px;
-    position: absolute;
     top: 420px;
     right: 430px;
+    margin: auto;
     max-width: 1000px;
 
 }
