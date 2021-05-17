@@ -115,8 +115,8 @@ background: #FFFFFF;
     margin-right: auto;
 }
 
-.main{
-    background-color: #FFFFFF;
+main{
+   linear-gradient(180deg, #FFFFFF 0%, rgba(228, 234, 239, 0.906341) 40.43%, #E1E8ED 99.99%, #E1E8ED 100%);
 }
 /* Adoptions Page 2 */
 
