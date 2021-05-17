@@ -46,6 +46,10 @@ p {
     width: 100%;
     align-items: center;
     justify-content: center;
+    background-size: cover;
+    background-repeat: none;
+    grid-column-start: 1;
+    grid-column-end: 2;
 }
 
 
