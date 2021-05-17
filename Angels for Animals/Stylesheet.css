@@ -216,6 +216,10 @@ footer {
     justify-content: center;
 }
 
+a:hover {
+    color: #E1E8ED;
+
+}
 .donatecar {
     font-family: 'Catamaran', sans-serif;
     font-size: 36px;
