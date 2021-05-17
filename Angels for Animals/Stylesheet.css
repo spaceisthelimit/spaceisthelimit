@@ -37,7 +37,7 @@ p {
     line-height: 40px;
 }
 
-.welcome{
+#welcome{
     display: flex;
     align-items: center;
     justify-content: center;
