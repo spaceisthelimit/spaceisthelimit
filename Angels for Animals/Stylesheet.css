@@ -43,11 +43,12 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin:20px;
+    
 }
 
 .middle{
-     padding-left: 70px;
+     margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 #mainbackground {
