@@ -168,6 +168,7 @@ footer {
     font-size: 20px;
     font-weight: normal;
     line-height: 38px;
+    float: right;
 
 }
 
@@ -192,7 +193,8 @@ footer {
 }
 
 .doing {
-    list-style-type: circle;
+     list-style-type: none;
+    padding-left: 0px;
 }
 
 #dog1 {
