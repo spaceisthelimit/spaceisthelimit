@@ -1,7 +1,5 @@
 /* Home Page */
 
-/* Home Page */
-
 
 position: relative;
 width: 1440px;
@@ -40,7 +38,7 @@ p {
 }
 
 
-#main background {
+#mainbackground {
     background-image: url(Images/Home Banner.png);
     background-size: cover;
     background-repeat: none;
