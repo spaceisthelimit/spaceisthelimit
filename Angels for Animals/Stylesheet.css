@@ -81,8 +81,16 @@ height: 1988px;
 
 background: #FFFFFF;
 
-#adoptdogs{
+#adoptdogsbanner{
     background-image: url(Images/adoptionbanner.jpg);
+    height: 684px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    background-repeat: none;
+    grid-column-start: 1;
+    grid-column-end: 2;
     
 }
 
