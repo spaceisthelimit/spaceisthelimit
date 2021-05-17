@@ -61,7 +61,9 @@ p {
     grid-column-end: 2;
 }
 
-
+#topadopt{
+    background-image: url(Images/adopt.jpg);
+}
 
 /* Adoptions */
 
