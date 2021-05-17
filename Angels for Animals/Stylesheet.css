@@ -391,11 +391,9 @@ footer {
 }
 
 .infosection {
-    padding-left: 40px;
     position: absolute;
+    padding-left: 550px;
     top: 420px;
-    right: 430px;
-    border-style: solid;
     
 }
 
