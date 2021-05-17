@@ -14,7 +14,8 @@ h4 {
     font-family: 'Catamaran', sans-serif;
     font-size: 72px;
     color: #000000;
-
+    align-items: center;
+    justify-content: center;
 
 }
 
