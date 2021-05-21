@@ -1,0 +1,164 @@
+/* === Typography === */
+
+body {
+    font-family: ‘Helvetica’, ‘Arial’, sans-serif;
+    font-size: 14pt;
+    line-height: 18pt;
+    color: #000000;
+}
+
+h1 {
+    font-family: ‘Teko’, sans-serif;
+    font-size: 72pt;
+    line-height: 18pt;
+    color: #000000;
+}
+
+h2 {
+    font-family: ‘Helvetica’, ‘Arial’, sans-serif;
+    font-size: 24pt;
+    line-height: 18pt;
+    color: #000000;
+    
+}
+
+nav a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+footer{
+    font-family: ‘Helvetica’, ‘Arial’, sans-serif;
+    font-style:italic;
+    font-size: 10pt;
+    line-height: 18pt;
+    color: #FFFFFF;
+
+}
+/* === Backgrounds === */
+
+header{
+   background-color: #000000;
+}
+
+main{
+    background-color: #cdcdcd; 
+    
+}
+
+body{
+    background-color: #FFFFFF;
+    
+}
+
+footer{
+   background-color: #000000;    
+    
+}
+
+#splash{
+    background-image: url(heading.jpg);
+    background-size:cover;
+}
+
+#ad{
+    background-color: #ff0000;
+}
+
+/* === Box Model === */
+
+#splash{
+    height: 400px;
+}
+
+nav{
+    padding: 40px;
+    
+}
+a{
+    margin-right: 20px;
+    margin-left: 10px;
+}
+
+footer{
+    padding:100px;
+}
+
+#foodarticles{
+    padding:20px;
+}
+
+article{
+  margin-bottom:80px;  
+}
+
+
+
+
+
+/* === Layout === */
+
+.floatleft {
+    float: left;
+    margin-right:50px;
+    margin-bottom: 20px;
+}
+
+#container{
+    width:1000px;
+    margin: auto;
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+main{
+    display:grid;
+    grid-template-columns: 75% 25%;
+}
+
+#splash {
+    grid-column-start:1;
+    grid-column-end:3;
+}
+
+#aside{
+    margin-left: 35px;
+
+}
+
+
+
+
+/* === Fixed Items === */
+
+#splash{
+    padding-top: 175px;
+}
+
+#ad{
+    margin-top: 300px;
+    margin-left:700px;
+    padding: 30px;
+    position:fixed;
+}
+
+
+
+/* === Flex Box === */
+
+#splash {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/* === Text Align === */
+
+header{
+    text-align: center
+}
+
+footer{
+    text-align: center
+}
